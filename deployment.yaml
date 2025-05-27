@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: ecommerce-app
-        image: gcr.io/proejct-gcp-1998/ecommerce-app
+        image: gcr.io/project-gcp-1998/ecommerce-app
         ports:
         - containerPort: 8080
 
